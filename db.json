@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,39 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "MIcko",
+      "dogBreed": "Poodle",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "srdjan",
+      "dogBreed": "srdjan@gmail.com",
+      "submit": "Submit",
+      "id": 5
+    },
+    {
+      "dogName": "srdjan",
+      "dogBreed": "srdjan@gmail.com",
+      "submit": "Submit",
+      "id": 6
+    },
+    {
+      "name": "lola",
+      "email": "lola@email.com",
+      "submit": "Submit",
+      "id": 7
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +52,596 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 1
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 2
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 3
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 4
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 5
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 6
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 7
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 8
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 9
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 10
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 11
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 12
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 13
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 14
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 15
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 16
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 17
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 18
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 19
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 20
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 21
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 22
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 23
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 24
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 25
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 26
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 27
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 28
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 29
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 30
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 31
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 32
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 33
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 34
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 35
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 36
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 37
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 38
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 39
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 40
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 41
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 42
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 43
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 44
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 45
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 46
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 47
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 48
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 49
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 50
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 51
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 52
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 53
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 54
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 55
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 56
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 57
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 58
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 59
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 60
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 61
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 62
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 63
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 64
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 65
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 66
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 67
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 68
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 69
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 70
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 71
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 72
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 73
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 74
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 75
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 76
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 77
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 78
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 79
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 80
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 81
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 82
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 83
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 84
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 85
+    },
+    {
+      "userName": "Valentina",
+      "email": "valentina@gmail.com",
+      "id": 86
+    },
+    {
+      "id": 87
+    },
+    {
+      "id": 88
+    },
+    {
+      "id": 89
+    },
+    {
+      "id": 90
+    },
+    {
+      "id": 91
+    },
+    {
+      "id": 92
+    },
+    {
+      "id": 93
+    },
+    {
+      "id": 94
+    },
+    {
+      "id": 95
+    },
+    {
+      "id": 96
+    },
+    {
+      "id": 97
+    },
+    {
+      "id": 98
+    },
+    {
+      "id": 99
+    },
+    {
+      "id": 100
+    },
+    {
+      "id": 101
+    },
+    {
+      "id": 102
+    },
+    {
+      "id": 103
+    },
+    {
+      "id": 104
+    },
+    {
+      "id": 105
+    },
+    {
+      "id": 106
+    },
+    {
+      "id": 107
+    },
+    {
+      "id": 108
+    },
+    {
+      "id": 109
+    },
+    {
+      "id": 110
+    },
+    {
+      "id": 111
+    },
+    {
+      "id": 112
+    },
+    {
+      "id": 113
+    },
+    {
+      "id": 114
+    },
+    {
+      "id": 115
+    },
+    {
+      "id": 116
+    },
+    {
+      "id": 117
+    },
+    {
+      "id": 118
+    },
+    {
+      "id": 119
+    },
+    {
+      "id": 120
+    },
+    {
+      "id": 121
+    },
+    {
+      "id": 122
+    },
+    {
+      "id": 123
+    },
+    {
+      "id": 124
+    },
+    {
+      "id": 125
+    },
+    {
+      "id": 126
+    },
+    {
+      "id": 127
+    },
+    {
+      "id": 128
+    },
+    {
+      "id": 129
+    },
+    {
+      "id": 130
+    },
+    {
+      "id": 131
+    },
+    {
+      "id": 132
+    },
+    {
+      "id": 133
+    },
+    {
+      "id": 134
+    },
+    {
+      "id": 135
+    },
+    {
+      "id": 136
+    },
+    {
+      "id": 137
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
